@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1000m
+NOC
+NOC.jar,core.jar,toxiclibscore.jar,controlP5.jar

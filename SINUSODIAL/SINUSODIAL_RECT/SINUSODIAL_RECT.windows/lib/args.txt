@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1000m
+SINUSODIAL_RECT
+SINUSODIAL_RECT.jar,core.jar,controlP5.jar

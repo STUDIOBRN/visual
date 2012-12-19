@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1000m
+SINUSODIAL_BEZIER
+SINUSODIAL_BEZIER.jar,core.jar,controlP5.jar

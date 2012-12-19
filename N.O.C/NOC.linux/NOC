@@ -1,0 +1,4 @@
+#!/bin/sh
+
+APPDIR=$(dirname "$0")
+java  -Djava.library.path="$APPDIR" -cp "$APPDIR/lib/NOC.jar:$APPDIR/lib/core.jar:$APPDIR/lib/toxiclibscore.jar:$APPDIR/lib/controlP5.jar" NOC
